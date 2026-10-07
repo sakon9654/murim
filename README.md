@@ -73,3 +73,15 @@
 - `arcs/WORKFLOW.md` — ขั้นตอนทำงานระดับภาค
 - `chapters/WORKFLOW.md` — ขั้นตอนทำงานระดับบท
 - `characters/STRUCTURE.md` — โครงไฟล์ของตัวละครสำคัญ
+
+
+## Early-region canon
+สำหรับช่วงต้นเรื่องและภารกิจของกู้อัน ให้อ่าน:
+- `factions/seven-seas-navigation-house.md` — โครงสร้างหอการเดินเรือเจ็ดสมุทร
+- `world/regions.md` — เขตเดินเรือทั้งเจ็ด
+- `world/map-overview.md` — แผนที่แนวคิด
+- `world/western-sea.md` — รายละเอียดเขตทะเลตะวันตก
+- `world/sea-routes.md` — เส้นทางหลัก
+- `world/communication-network.md` — การส่งข่าวและข้อจำกัดด้านเวลา
+
+หมายเหตุ: `world/map-overview.md` เป็น Concept Map ยังห้ามใช้คำนวณเวลาเดินทางจนกว่าจะมีแผนที่เชิงระยะที่ล็อกไว้
