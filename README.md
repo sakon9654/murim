@@ -63,3 +63,13 @@
 - วิชาและข้อจำกัด
 
 แทนการกำหนดตัวเลขหรือขั้นพลัง
+
+
+## Cross-chat workflow
+เพื่อให้ทุกแชทใช้ข้อมูลตรงกัน ให้เริ่มจาก:
+- `PROJECT-GUIDE.md` — กฎการใช้ Git เป็น Source of Truth
+- `CONTEXT-MAP.md` — งานแต่ละประเภทต้องอ่านไฟล์ใด
+- `SYNC-CHECKLIST.md` — เช็กก่อนจบงานว่าได้อัปเดต Canon/Timeline/Character/Faction ครบหรือยัง
+- `arcs/WORKFLOW.md` — ขั้นตอนทำงานระดับภาค
+- `chapters/WORKFLOW.md` — ขั้นตอนทำงานระดับบท
+- `characters/STRUCTURE.md` — โครงไฟล์ของตัวละครสำคัญ
