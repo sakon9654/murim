@@ -76,3 +76,17 @@
 - /characters/protagonist/status.md
 
 อ่าน /characters/protagonist/relationships.md เมื่อฉากเกี่ยวข้องกับครอบครัว อาจารย์ หรือหอการเดินเรือเจ็ดสมุทร
+
+
+## ภูมิภาคและองค์กรช่วงต้น — ต้องอ่าน
+- /factions/seven-seas-navigation-house.md
+- /world/map-overview.md
+- /world/western-sea.md
+- /world/sea-routes.md
+- /world/communication-network.md
+
+กฎ:
+- ใช้เขตทะเลตะวันตกเป็น Home Region ของกู้อันในช่วงต้น
+- ห้ามอนุมานเวลาเดินทางจาก Concept Map
+- ข่าวสารต้องมีเวลาเดินทางและเส้นทางการส่ง
+- การปิดเส้นทาง การคุ้มกัน และโจรน้ำต้องมีผลทางการค้า/การเมืองตามไฟล์โลก
