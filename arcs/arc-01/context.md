@@ -64,3 +64,15 @@
 3. มีข้อมูลใดเป็นข่าวสาธารณะ ข่าววงใน หรือความลับ
 4. เหตุการณ์อยู่ตำแหน่งใดใน timeline
 5. หากมีการต่อสู้ พื้นที่ วิชา ข้อมูล และการแพ้ทางส่งผลอย่างไร
+
+
+## ตัวเอก — ต้องอ่านเมื่อกู้อันปรากฏ
+- /characters/protagonist/README.md
+- /characters/protagonist/profile.md
+- /characters/protagonist/personality.md
+- /characters/protagonist/combat.md
+- /characters/protagonist/reputation.md
+- /characters/protagonist/knowledge.md
+- /characters/protagonist/status.md
+
+อ่าน /characters/protagonist/relationships.md เมื่อฉากเกี่ยวข้องกับครอบครัว อาจารย์ หรือหอการเดินเรือเจ็ดสมุทร
